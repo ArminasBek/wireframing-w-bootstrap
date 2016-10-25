@@ -1,0 +1,13 @@
+.menu-right {
+  margin-top: 20px; }
+
+.nav-tabs {
+  background: #eee;
+  padding: 20px 10px 0;
+  border-radius: 5px 5px 0 0; }
+
+.small-dark-title {
+  background: black;
+  color: white;
+  padding: 6px 12px;
+  display: inline-block; }
